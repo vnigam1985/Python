@@ -8,3 +8,7 @@ Created on Mon Apr 10 13:05:23 2017
 print("first line")
 print("second line")
 print("third line")
+def potatoCost(potatoPrice,amount,potatoType):
+    print(potatoPrice*amount)
+    print(potatoType)
+    
